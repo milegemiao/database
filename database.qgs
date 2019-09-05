@@ -5,25 +5,42 @@
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="oita_1620190905153022877" source="/Users/yulong/Documents/GitHub/database" name="oita_16">
+    <layer-tree-group expanded="0" checked="Qt::Checked" name="water depth">
       <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="C21_59L_2K_FisheryRightSetPoint20190905145502844" source="/Users/yulong/Documents/GitHub/database/漁業権設定区域/C21-59L-48-01.0a_GML/C21-59L-2K_FisheryRightSetPoint.shp" name="C21-59L-2K_FisheryRightSetPoint">
-      <customproperties>
-        <property key="expandedLegendNodes"/>
-      </customproperties>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="C21_59L_2K_FisheryRightSetLine20190905145412943" source="/Users/yulong/Documents/GitHub/database/漁業権設定区域/C21-59L-48-01.0a_GML/C21-59L-2K_FisheryRightSetLine.shp" name="C21-59L-2K_FisheryRightSetLine">
-      <customproperties>
-        <property key="expandedLegendNodes"/>
-      </customproperties>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="jodc_depth500mesh_2019090514221220190905150642066" source="file:///Users/yulong/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/jodc-depth500mesh-20190905142212.txt?type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes" name="jodc-depth500mesh-20190905142212">
-      <customproperties>
-        <property key="expandedLegendNodes"/>
-      </customproperties>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="標準地図20190905140146796" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=std&amp;styles=default&amp;tileMatrixSet=z2to18&amp;url=http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts.xml" name="標準地図">
+      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="jodc_depth500mesh_2019090514221220190905150642066" source="file:///Users/yulong/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/jodc-depth500mesh-20190905142212.txt?type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes" name="jodc-depth500mesh-20190905142212">
+        <customproperties>
+          <property key="expandedLegendNodes"/>
+        </customproperties>
+      </layer-tree-layer>
+    </layer-tree-group>
+    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="fishery right">
+      <customproperties/>
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="C21_59L_2K_FisheryRightSetPoint20190905145502844" source="/Users/yulong/Documents/GitHub/database/漁業権設定区域/C21-59L-48-01.0a_GML/C21-59L-2K_FisheryRightSetPoint.shp" name="C21-59L-2K_FisheryRightSetPoint">
+        <customproperties>
+          <property key="expandedLegendNodes"/>
+        </customproperties>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="C21_59L_2K_FisheryRightSetLine20190905145412943" source="/Users/yulong/Documents/GitHub/database/漁業権設定区域/C21-59L-48-01.0a_GML/C21-59L-2K_FisheryRightSetLine.shp" name="C21-59L-2K_FisheryRightSetLine">
+        <customproperties>
+          <property key="expandedLegendNodes"/>
+        </customproperties>
+      </layer-tree-layer>
+    </layer-tree-group>
+    <layer-tree-group expanded="0" checked="Qt::Checked" name="referencer">
+      <customproperties/>
+      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="oita_1620190905153022877" source="/Users/yulong/Documents/GitHub/database" name="oita_16">
+        <customproperties>
+          <property key="expandedLegendNodes"/>
+        </customproperties>
+      </layer-tree-layer>
+      <layer-tree-group expanded="1" checked="Qt::Checked" name="sub-group1">
+        <customproperties/>
+      </layer-tree-group>
+      <layer-tree-group expanded="1" checked="Qt::Checked" name="sub-group2">
+        <customproperties/>
+      </layer-tree-group>
+    </layer-tree-group>
+    <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="標準地図20190905140146796" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=std&amp;styles=default&amp;tileMatrixSet=z2to18&amp;url=http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts.xml" name="標準地図">
       <customproperties>
         <property key="expandedLegendNodes"/>
       </customproperties>
@@ -33,12 +50,12 @@
         <property key="expandedLegendNodes"/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="白地図20190905150315056" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=blank&amp;styles=default&amp;tileMatrixSet=z5to14&amp;url=http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts.xml" name="白地図">
+    <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="白地図20190905150315056" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=blank&amp;styles=default&amp;tileMatrixSet=z5to14&amp;url=http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts.xml" name="白地図">
       <customproperties>
         <property key="expandedLegendNodes"/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="English20190905135958352" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=english&amp;styles=default&amp;tileMatrixSet=z5to8&amp;url=http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts.xml" name="English">
+    <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="English20190905135958352" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=english&amp;styles=default&amp;tileMatrixSet=z5to8&amp;url=http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts.xml" name="English">
       <customproperties>
         <property key="expandedLegendNodes"/>
       </customproperties>
@@ -97,28 +114,36 @@
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_16" showFeatureCount="0">
+    <legendgroup open="false" checked="Qt::Checked" name="water depth">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="jodc-depth500mesh-20190905142212" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="jodc_depth500mesh_2019090514221220190905150642066" visible="1"/>
+        </filegroup>
+      </legendlayer>
+    </legendgroup>
+    <legendgroup open="false" checked="Qt::Unchecked" name="fishery right">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="C21-59L-2K_FisheryRightSetPoint" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="C21_59L_2K_FisheryRightSetPoint20190905145502844" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="C21-59L-2K_FisheryRightSetLine" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="C21_59L_2K_FisheryRightSetLine20190905145412943" visible="0"/>
+        </filegroup>
+      </legendlayer>
+    </legendgroup>
+    <legendgroup open="false" checked="Qt::Checked" name="referencer">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_16" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="oita_1620190905153022877" visible="1"/>
+        </filegroup>
+      </legendlayer>
+      <legendgroup open="true" checked="Qt::Checked" name="sub-group1"/>
+      <legendgroup open="true" checked="Qt::Checked" name="sub-group2"/>
+    </legendgroup>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="標準地図" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="oita_1620190905153022877" visible="1"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="C21-59L-2K_FisheryRightSetPoint" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="C21_59L_2K_FisheryRightSetPoint20190905145502844" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="C21-59L-2K_FisheryRightSetLine" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="C21_59L_2K_FisheryRightSetLine20190905145412943" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="jodc-depth500mesh-20190905142212" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="jodc_depth500mesh_2019090514221220190905150642066" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="標準地図" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="標準地図20190905140146796" visible="0"/>
       </filegroup>
     </legendlayer>
@@ -127,13 +152,13 @@
         <legendlayerfile isInOverview="0" layerid="淡色地図20190905150317114" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="白地図" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="白地図" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="白地図20190905150315056" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="English" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="English" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="English20190905135958352" visible="0"/>
       </filegroup>
     </legendlayer>
