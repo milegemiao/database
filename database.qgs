@@ -1,182 +1,119 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" version="2.18.28">
+<qgis projectname="" version="2.18.25">
   <title></title>
   <autotransaction active="0"/>
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-group expanded="0" checked="Qt::Checked" name="water depth">
+    <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="water depth">
       <customproperties/>
-      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="北海道20190905215030155" source="file:///Users/hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E5%8C%97%E6%B5%B7%E9%81%93.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="北海道">
+      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="北海道20190905215030155" source="file:///C:/Users/Hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E5%8C%97%E6%B5%B7%E9%81%93.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="北海道">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="東北20190905215004572" source="file:///Users/hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E6%9D%B1%E5%8C%97.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="東北">
+      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="東北20190905215004572" source="file:///C:/Users/Hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E6%9D%B1%E5%8C%97.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="東北">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="関東20190905214941548" source="file:///Users/hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E9%96%A2%E6%9D%B1.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="関東">
+      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="関東20190905214941548" source="file:///C:/Users/Hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E9%96%A2%E6%9D%B1.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="関東">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="近畿20190905214919547" source="file:///Users/hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E8%BF%91%E7%95%BF.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="近畿">
+      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="近畿20190905214919547" source="file:///C:/Users/Hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E8%BF%91%E7%95%BF.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="近畿">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="中部20190905214858541" source="file:///Users/hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E4%B8%AD%E9%83%A8.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="中部">
+      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="中部20190905214858541" source="file:///C:/Users/Hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E4%B8%AD%E9%83%A8.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="中部">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="中国20190905214823589" source="file:///Users/hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E4%B8%AD%E5%9B%BD.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="中国">
+      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="中国20190905214823589" source="file:///C:/Users/Hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E4%B8%AD%E5%9B%BD.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="中国">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="四国20190905213929405" source="file:///Users/hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E5%9B%9B%E5%9B%BD.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="四国">
+      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Unchecked" id="四国20190905213929405" source="file:///C:/Users/Hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E5%9B%9B%E5%9B%BD.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="四国">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="九州20190905212041008" source="file:///Users/hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E4%B9%9D%E5%B7%9E.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="九州">
+      <layer-tree-layer expanded="0" providerKey="delimitedtext" checked="Qt::Checked" id="九州20190905212041008" source="file:///C:/Users/Hongxia/Documents/GitHub/database/%E6%B0%B4%E6%B7%B1/%E4%B9%9D%E5%B7%9E.txt?encoding=Shift_JIS&amp;type=csv&amp;delimiter=%20&amp;useHeader=No&amp;skipEmptyFields=Yes&amp;xField=field_3&amp;yField=field_2&amp;spatialIndex=no&amp;subsetIndex=no&amp;watchFile=yes&amp;subset=%22field_4%22%20%3C%3D%2050" name="九州">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group expanded="1" checked="Qt::Checked" name="shp">
       <customproperties/>
-      <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="07_oita20190906013746554" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/shape/07_oita.shp|layerid=0|subset=&quot;type_1&quot; = '魚類小割式'" name="07_oita">
+      <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="07_oita20190906013746554" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/shape/07_oita.shp|layerid=0|subset=&quot;type_1&quot; = '魚類小割式'" name="07_oita">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group expanded="0" checked="Qt::Unchecked" name="fishery right">
       <customproperties/>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="C21_59L_2K_FisheryRightSetPoint20190905145502844" source="/Users/hongxia/Documents/GitHub/database/漁業権設定区域/C21-59L-48-01.0a_GML/C21-59L-2K_FisheryRightSetPoint.shp" name="C21-59L-2K_FisheryRightSetPoint">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="C21_59L_2K_FisheryRightSetPoint20190905145502844" source="C:/Users/Hongxia/Documents/GitHub/database/漁業権設定区域/C21-59L-48-01.0a_GML/C21-59L-2K_FisheryRightSetPoint.shp" name="C21-59L-2K_FisheryRightSetPoint">
         <customproperties>
           <property key="expandedLegendNodes"/>
         </customproperties>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="C21_59L_2K_FisheryRightSetLine20190905145412943" source="/Users/hongxia/Documents/GitHub/database/漁業権設定区域/C21-59L-48-01.0a_GML/C21-59L-2K_FisheryRightSetLine.shp" name="C21-59L-2K_FisheryRightSetLine">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="C21_59L_2K_FisheryRightSetLine20190905145412943" source="C:/Users/Hongxia/Documents/GitHub/database/漁業権設定区域/C21-59L-48-01.0a_GML/C21-59L-2K_FisheryRightSetLine.shp" name="C21-59L-2K_FisheryRightSetLine">
         <customproperties>
           <property key="expandedLegendNodes"/>
         </customproperties>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="0" checked="Qt::PartiallyChecked" name="referencer">
+    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="referencer">
       <customproperties/>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_15_georeferenced20190906012105288" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_15_georeferenced.png" name="oita_15_georeferenced">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_2020190906012142793" source="/Users/hongxia/Documents/GitHub/database" name="oita_20">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_1920190906011837776" source="/Users/hongxia/Documents/GitHub/database" name="oita_19">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_1820190906011651691" source="/Users/hongxia/Documents/GitHub/database" name="oita_18">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_1720190906011506696" source="/Users/hongxia/Documents/GitHub/database" name="oita_17">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_1620190906011215024" source="/Users/hongxia/Documents/GitHub/database" name="oita_16">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_1520190906010935540" source="/Users/hongxia/Documents/GitHub/database" name="oita_15">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_1420190906010604027" source="/Users/hongxia/Documents/GitHub/database" name="oita_14">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_1320190906005052951" source="/Users/hongxia/Documents/GitHub/database" name="oita_13">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_1220190906004854914" source="/Users/hongxia/Documents/GitHub/database" name="oita_12">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_1120190906004733536" source="/Users/hongxia/Documents/GitHub/database" name="oita_11">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_1020190906004258375" source="/Users/hongxia/Documents/GitHub/database" name="oita_10">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_920190906003555483" source="/Users/hongxia/Documents/GitHub/database" name="oita_9">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_820190906003321690" source="/Users/hongxia/Documents/GitHub/database" name="oita_8">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_720190906003031003" source="/Users/hongxia/Documents/GitHub/database" name="oita_7">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_620190906002702644" source="/Users/hongxia/Documents/GitHub/database" name="oita_6">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_520190906002456381" source="/Users/hongxia/Documents/GitHub/database" name="oita_5">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_420190906002244498" source="/Users/hongxia/Documents/GitHub/database" name="oita_4">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_320190906001821259" source="/Users/hongxia/Documents/GitHub/database" name="oita_3">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_220190905201457142" source="/Users/hongxia/Documents/GitHub/database" name="oita_2">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_120190905201008845" source="/Users/hongxia/Documents/GitHub/database" name="oita_1">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="oita_index20190906001439783" source="/Users/hongxia/Documents/GitHub/database" name="oita_index">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_15_georeferenced20190906012105288" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_15_georeferenced.png" name="oita_15_georeferenced">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="0" checked="Qt::Checked" name="georeferencer">
+    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="georeferencer">
       <customproperties/>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_20_georeferenced20190906012401114" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_20_georeferenced.png" name="oita_20_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_20_georeferenced20190906012401114" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_20_georeferenced.png" name="oita_20_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_19_georeferenced20190906012105359" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_19_georeferenced.png" name="oita_19_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_19_georeferenced20190906012105359" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_19_georeferenced.png" name="oita_19_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_18_georeferenced20190906012105340" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_18_georeferenced.png" name="oita_18_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_18_georeferenced20190906012105340" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_18_georeferenced.png" name="oita_18_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_17_georeferenced20190906012105323" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_17_georeferenced.png" name="oita_17_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_17_georeferenced20190906012105323" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_17_georeferenced.png" name="oita_17_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_16_georeferenced20190906012105305" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_16_georeferenced.png" name="oita_16_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_16_georeferenced20190906012105305" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_16_georeferenced.png" name="oita_16_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_14_georeferenced20190906012105271" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_14_georeferenced.png" name="oita_14_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_14_georeferenced20190906012105271" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_14_georeferenced.png" name="oita_14_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_13_georeferenced20190906010045843" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_13_georeferenced.png" name="oita_13_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_13_georeferenced20190906010045843" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_13_georeferenced.png" name="oita_13_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_12_georeferenced20190906010045830" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_12_georeferenced.png" name="oita_12_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_12_georeferenced20190906010045830" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_12_georeferenced.png" name="oita_12_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_11_georeferenced20190906010045817" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_11_georeferenced.png" name="oita_11_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_11_georeferenced20190906010045817" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_11_georeferenced.png" name="oita_11_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_10_georeferenced20190906010045803" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_10_georeferenced.png" name="oita_10_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_10_georeferenced20190906010045803" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_10_georeferenced.png" name="oita_10_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_9_georeferenced20190906010045790" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_9_georeferenced.png" name="oita_9_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_9_georeferenced20190906010045790" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_9_georeferenced.png" name="oita_9_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_8_georeferenced20190906010045775" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_8_georeferenced.png" name="oita_8_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_8_georeferenced20190906010045775" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_8_georeferenced.png" name="oita_8_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_7_georeferenced20190906010045761" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_7_georeferenced.png" name="oita_7_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_7_georeferenced20190906010045761" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_7_georeferenced.png" name="oita_7_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_6_georeferenced20190906010045747" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_6_georeferenced.png" name="oita_6_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_6_georeferenced20190906010045747" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_6_georeferenced.png" name="oita_6_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_5_georeferenced20190906010045734" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_5_georeferenced.png" name="oita_5_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_5_georeferenced20190906010045734" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_5_georeferenced.png" name="oita_5_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_4_georeferenced20190906010045720" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_4_georeferenced.png" name="oita_4_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_4_georeferenced20190906010045720" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_4_georeferenced.png" name="oita_4_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_3_georeferenced20190906010045706" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_3_georeferenced.png" name="oita_3_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_3_georeferenced20190906010045706" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_3_georeferenced.png" name="oita_3_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_2_georeferenced20190906010045692" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_2_georeferenced.png" name="oita_2_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_2_georeferenced20190906010045692" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_2_georeferenced.png" name="oita_2_georeferenced">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="oita_1_georeferenced20190906010045658" source="/Users/hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_1_georeferenced.png" name="oita_1_georeferenced">
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_1_georeferenced20190906010045658" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_1_georeferenced.png" name="oita_1_georeferenced">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
@@ -185,7 +122,7 @@
         <property key="expandedLegendNodes"/>
       </customproperties>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Checked" id="標準地図20190905140146796" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=std&amp;styles=default&amp;tileMatrixSet=z2to18&amp;url=http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts.xml" name="標準地図">
+    <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="標準地図20190905140146796" source="crs=EPSG:3857&amp;dpiMode=7&amp;format=image/png&amp;layers=std&amp;styles=default&amp;tileMatrixSet=z2to18&amp;url=http://gsi-cyberjapan.github.io/experimental_wmts/gsitiles_wmts.xml" name="標準地図">
       <customproperties>
         <property key="expandedLegendNodes"/>
       </customproperties>
@@ -205,16 +142,16 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>14686411.59897832944989204</xmin>
-      <ymin>3905801.04957947740331292</ymin>
-      <xmax>14690544.0714595802128315</xmax>
-      <ymax>3908223.74629178689792752</ymax>
+      <xmin>14671714.69116559438407421</xmin>
+      <ymin>3879644.3084125891327858</ymin>
+      <xmax>14711543.64654603414237499</xmax>
+      <ymax>3902994.36813918501138687</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
     <destinationsrs>
       <spatialrefsys>
-        <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+        <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
         <srsid>3857</srsid>
         <srid>3857</srid>
         <authid>EPSG:3857</authid>
@@ -308,8 +245,6 @@
       <item>C21_59L_2K_FisheryRightSetPoint20190905145502844</item>
       <item>白地図20190905150315056</item>
       <item>淡色地図20190905150317114</item>
-      <item>oita_120190905201008845</item>
-      <item>oita_220190905201457142</item>
       <item>九州20190905212041008</item>
       <item>四国20190905213929405</item>
       <item>中国20190905214823589</item>
@@ -318,18 +253,6 @@
       <item>関東20190905214941548</item>
       <item>東北20190905215004572</item>
       <item>北海道20190905215030155</item>
-      <item>oita_index20190906001439783</item>
-      <item>oita_320190906001821259</item>
-      <item>oita_420190906002244498</item>
-      <item>oita_520190906002456381</item>
-      <item>oita_620190906002702644</item>
-      <item>oita_720190906003031003</item>
-      <item>oita_820190906003321690</item>
-      <item>oita_920190906003555483</item>
-      <item>oita_1020190906004258375</item>
-      <item>oita_1120190906004733536</item>
-      <item>oita_1220190906004854914</item>
-      <item>oita_1320190906005052951</item>
       <item>oita_1_georeferenced20190906010045658</item>
       <item>oita_2_georeferenced20190906010045692</item>
       <item>oita_3_georeferenced20190906010045706</item>
@@ -343,58 +266,51 @@
       <item>oita_11_georeferenced20190906010045817</item>
       <item>oita_12_georeferenced20190906010045830</item>
       <item>oita_13_georeferenced20190906010045843</item>
-      <item>oita_1420190906010604027</item>
-      <item>oita_1520190906010935540</item>
-      <item>oita_1620190906011215024</item>
-      <item>oita_1720190906011506696</item>
-      <item>oita_1820190906011651691</item>
-      <item>oita_1920190906011837776</item>
       <item>oita_14_georeferenced20190906012105271</item>
       <item>oita_15_georeferenced20190906012105288</item>
       <item>oita_16_georeferenced20190906012105305</item>
       <item>oita_17_georeferenced20190906012105323</item>
       <item>oita_18_georeferenced20190906012105340</item>
       <item>oita_19_georeferenced20190906012105359</item>
-      <item>oita_2020190906012142793</item>
       <item>oita_20_georeferenced20190906012401114</item>
       <item>07_oita20190906013746554</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendgroup open="false" checked="Qt::Checked" name="water depth">
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="北海道" showFeatureCount="0">
+    <legendgroup open="true" checked="Qt::PartiallyChecked" name="water depth">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="北海道" showFeatureCount="0">
         <filegroup open="false" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="北海道20190905215030155" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="北海道20190905215030155" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="東北" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="東北" showFeatureCount="0">
         <filegroup open="false" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="東北20190905215004572" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="東北20190905215004572" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="関東" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="関東" showFeatureCount="0">
         <filegroup open="false" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="関東20190905214941548" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="関東20190905214941548" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="近畿" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="近畿" showFeatureCount="0">
         <filegroup open="false" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="近畿20190905214919547" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="近畿20190905214919547" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="中部" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="中部" showFeatureCount="0">
         <filegroup open="false" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="中部20190905214858541" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="中部20190905214858541" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="中国" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="中国" showFeatureCount="0">
         <filegroup open="false" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="中国20190905214823589" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="中国20190905214823589" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="四国" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="四国" showFeatureCount="0">
         <filegroup open="false" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="四国20190905213929405" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="四国20190905213929405" visible="0"/>
         </filegroup>
       </legendlayer>
       <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="九州" showFeatureCount="0">
@@ -422,212 +338,107 @@
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup open="false" checked="Qt::PartiallyChecked" name="referencer">
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_15_georeferenced" showFeatureCount="0">
+    <legendgroup open="false" checked="Qt::Unchecked" name="referencer">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_15_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_15_georeferenced20190906012105288" visible="1"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_20" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_2020190906012142793" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_19" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_1920190906011837776" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_18" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_1820190906011651691" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_17" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_1720190906011506696" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_16" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_1620190906011215024" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_15" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_1520190906010935540" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_14" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_1420190906010604027" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_13" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_1320190906005052951" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_12" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_1220190906004854914" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_11" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_1120190906004733536" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_10" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_1020190906004258375" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_9" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_920190906003555483" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_8" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_820190906003321690" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_7" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_720190906003031003" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_6" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_620190906002702644" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_5" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_520190906002456381" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_4" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_420190906002244498" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_3" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_320190906001821259" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_2" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_220190905201457142" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_1" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_120190905201008845" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_index" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_index20190906001439783" visible="0"/>
+          <legendlayerfile isInOverview="0" layerid="oita_15_georeferenced20190906012105288" visible="0"/>
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup open="false" checked="Qt::Checked" name="georeferencer">
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_20_georeferenced" showFeatureCount="0">
+    <legendgroup open="false" checked="Qt::Unchecked" name="georeferencer">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_20_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_20_georeferenced20190906012401114" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_20_georeferenced20190906012401114" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_19_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_19_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_19_georeferenced20190906012105359" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_19_georeferenced20190906012105359" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_18_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_18_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_18_georeferenced20190906012105340" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_18_georeferenced20190906012105340" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_17_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_17_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_17_georeferenced20190906012105323" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_17_georeferenced20190906012105323" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_16_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_16_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_16_georeferenced20190906012105305" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_16_georeferenced20190906012105305" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_14_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_14_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_14_georeferenced20190906012105271" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_14_georeferenced20190906012105271" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_13_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_13_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_13_georeferenced20190906010045843" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_13_georeferenced20190906010045843" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_12_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_12_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_12_georeferenced20190906010045830" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_12_georeferenced20190906010045830" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_11_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_11_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_11_georeferenced20190906010045817" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_11_georeferenced20190906010045817" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_10_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_10_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_10_georeferenced20190906010045803" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_10_georeferenced20190906010045803" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_9_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_9_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_9_georeferenced20190906010045790" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_9_georeferenced20190906010045790" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_8_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_8_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_8_georeferenced20190906010045775" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_8_georeferenced20190906010045775" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_7_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_7_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_7_georeferenced20190906010045761" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_7_georeferenced20190906010045761" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_6_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_6_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_6_georeferenced20190906010045747" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_6_georeferenced20190906010045747" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_5_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_5_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_5_georeferenced20190906010045734" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_5_georeferenced20190906010045734" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_4_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_4_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_4_georeferenced20190906010045720" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_4_georeferenced20190906010045720" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_3_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_3_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_3_georeferenced20190906010045706" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_3_georeferenced20190906010045706" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_2_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_2_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_2_georeferenced20190906010045692" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_2_georeferenced20190906010045692" visible="0"/>
         </filegroup>
       </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="oita_1_georeferenced" showFeatureCount="0">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_1_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_1_georeferenced20190906010045658" visible="1"/>
+          <legendlayerfile isInOverview="0" layerid="oita_1_georeferenced20190906010045658" visible="0"/>
         </filegroup>
       </legendlayer>
     </legendgroup>
@@ -636,9 +447,9 @@
         <legendlayerfile isInOverview="0" layerid="白地図20190905150315056" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="標準地図" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="標準地図" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="標準地図20190905140146796" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="標準地図20190905140146796" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="淡色地図" showFeatureCount="0">
@@ -788,8 +599,6 @@
             </layer>
           </symbol>
         </source-symbol>
-        <colorramp type="randomcolors" name="[source]"/>
-        <invertedcolorramp value="0"/>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
@@ -1751,7 +1560,7 @@ def my_form_open(dialog, layer, feature):
       <layername>English</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -1781,37 +1590,6 @@ def my_form_open(dialog, layer, feature):
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_1020190906004258375</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_10</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_10.png"/>
-        <property key="rotation" value="359.585730724971"/>
-        <property key="title" value="oita_10"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14687798.4265972"/>
-        <property key="xScale" value="5.19988856423013"/>
-        <property key="yCenter" value="3889108.87856793"/>
-        <property key="yScale" value="5.16010810727373"/>
-      </customproperties>
-    </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>14683194.57994064316153526</xmin>
@@ -1827,7 +1605,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_10_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -1860,37 +1638,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_1120190906004733536</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_11</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_11.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_11"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14681630.693641"/>
-        <property key="xScale" value="5.32577735058635"/>
-        <property key="yCenter" value="3893471.10515553"/>
-        <property key="yScale" value="5.3411047666343"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -1907,7 +1654,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_11_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -1940,68 +1687,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_120190905201008845</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_1</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_1.png"/>
-        <property key="rotation" value="0.132190062392063"/>
-        <property key="title" value="oita_1"/>
-        <property key="transparency" value="50"/>
-        <property key="xCenter" value="14685182.3885313"/>
-        <property key="xScale" value="5.437952032335"/>
-        <property key="yCenter" value="3858851.90223074"/>
-        <property key="yScale" value="5.40205335673364"/>
-      </customproperties>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_1220190906004854914</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_12</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_12.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_12"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14688229.3442007"/>
-        <property key="xScale" value="5.30882024800227"/>
-        <property key="yCenter" value="3898861.89461766"/>
-        <property key="yScale" value="5.33741802045233"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -2018,7 +1703,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_12_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2051,37 +1736,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_1320190906005052951</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_13</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_13.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_13"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14693871.4336227"/>
-        <property key="xScale" value="5.49201241036377"/>
-        <property key="yCenter" value="3902153.11344718"/>
-        <property key="yScale" value="5.38660439547523"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -2098,7 +1752,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_13_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2131,37 +1785,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_1420190906010604027</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_14</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_14.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_14"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14693875.4868479"/>
-        <property key="xScale" value="5.32555185723504"/>
-        <property key="yCenter" value="3910073.11540885"/>
-        <property key="yScale" value="5.35718871152021"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -2178,7 +1801,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_14_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2211,37 +1834,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_1520190906010935540</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_15</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_15.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_15"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14693332.3546765"/>
-        <property key="xScale" value="5.28888039971268"/>
-        <property key="yCenter" value="3917810.72223834"/>
-        <property key="yScale" value="5.10430819016994"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -2258,7 +1850,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_15_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2292,37 +1884,6 @@ def my_form_open(dialog, layer, feature):
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_1620190906011215024</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_16</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_16.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_16"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14687759.1700822"/>
-        <property key="xScale" value="5.19426374583527"/>
-        <property key="yCenter" value="3906044.2096003"/>
-        <property key="yScale" value="5.31965609852491"/>
-      </customproperties>
-    </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>14683206.39790894836187363</xmin>
@@ -2338,7 +1899,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_16_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2372,37 +1933,6 @@ def my_form_open(dialog, layer, feature):
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_1720190906011506696</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_17</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_17.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_17"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14680345.8212654"/>
-        <property key="xScale" value="5.30640809843189"/>
-        <property key="yCenter" value="3906060.42250094"/>
-        <property key="yScale" value="5.2871192582286"/>
-      </customproperties>
-    </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>14675694.75456716492772102</xmin>
@@ -2418,7 +1948,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_17_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2451,37 +1981,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_1820190906011651691</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_18</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_18.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_18"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14681456.4049591"/>
-        <property key="xScale" value="5.24253941234393"/>
-        <property key="yCenter" value="3913607.52774794"/>
-        <property key="yScale" value="5.30188000702746"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -2498,7 +1997,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_18_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2532,37 +2031,6 @@ def my_form_open(dialog, layer, feature):
       </pipe>
       <blendMode>0</blendMode>
     </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_1920190906011837776</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_19</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_19.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_19"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14674136.2803211"/>
-        <property key="xScale" value="5.25178807214916"/>
-        <property key="yCenter" value="3913818.29545623"/>
-        <property key="yScale" value="5.30188000702746"/>
-      </customproperties>
-    </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
         <xmin>14669533.08807584084570408</xmin>
@@ -2578,7 +2046,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_19_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2627,7 +2095,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_1_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2660,37 +2128,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_2020190906012142793</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_20</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_20.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_20"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14678481.3376921"/>
-        <property key="xScale" value="5.25178807214704"/>
-        <property key="yCenter" value="3921795.04257013"/>
-        <property key="yScale" value="5.26265524741949"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -2707,7 +2144,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_20_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2740,37 +2177,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_220190905201457142</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_2</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_2.png"/>
-        <property key="rotation" value="0.290099111819188"/>
-        <property key="title" value="oita_2"/>
-        <property key="transparency" value="50"/>
-        <property key="xCenter" value="14682571.6000219"/>
-        <property key="xScale" value="5.19796317101491"/>
-        <property key="yCenter" value="3864974.06493536"/>
-        <property key="yScale" value="5.23583969413367"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -2787,7 +2193,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_2_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2820,37 +2226,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_320190906001821259</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_3</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_3.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_3"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14689808.2931802"/>
-        <property key="xScale" value="5.40603000254172"/>
-        <property key="yCenter" value="3868789.0319429"/>
-        <property key="yScale" value="5.3976132020482"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -2867,7 +2242,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_3_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2900,37 +2275,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_420190906002244498</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_4</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_4.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_4"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14689809.8536358"/>
-        <property key="xScale" value="5.25585671403902"/>
-        <property key="yCenter" value="3874662.58715908"/>
-        <property key="yScale" value="5.26580029131234"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -2947,7 +2291,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_4_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -2980,37 +2324,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_520190906002456381</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_5</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_5.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_5"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14696115.6550781"/>
-        <property key="xScale" value="5.22531511692"/>
-        <property key="yCenter" value="3874646.98260218"/>
-        <property key="yScale" value="5.31319647738953"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -3027,7 +2340,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_5_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -3060,37 +2373,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_620190906002702644</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_6</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_6.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_6"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14694630.1012614"/>
-        <property key="xScale" value="5.26486950447444"/>
-        <property key="yCenter" value="3883039.11330159"/>
-        <property key="yScale" value="5.27246259719999"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -3107,7 +2389,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_6_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -3140,37 +2422,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_720190906003031003</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_7</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_7.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_7"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14701867.4947504"/>
-        <property key="xScale" value="5.2299862461307"/>
-        <property key="yCenter" value="3882848.73770744"/>
-        <property key="yScale" value="5.26694777188886"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -3187,7 +2438,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_7_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -3220,37 +2471,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_820190906003321690</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_8</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_8.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_8"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14702237.3227489"/>
-        <property key="xScale" value="5.24942897011499"/>
-        <property key="yCenter" value="3890367.0132206"/>
-        <property key="yScale" value="5.22280989972655"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -3267,7 +2487,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_8_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -3300,37 +2520,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_920190906003555483</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_9</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_9.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_9"/>
-        <property key="transparency" value="30"/>
-        <property key="xCenter" value="14694811.1141214"/>
-        <property key="xScale" value="5.22927446084887"/>
-        <property key="yCenter" value="3889071.49122991"/>
-        <property key="yScale" value="5.4401566933164"/>
-      </customproperties>
     </maplayer>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -3347,7 +2536,7 @@ def my_form_open(dialog, layer, feature):
       <layername>oita_9_georeferenced</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -3380,37 +2569,6 @@ def my_form_open(dialog, layer, feature):
         <rasterresampler maxOversampling="2"/>
       </pipe>
       <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="FreehandRasterGeoreferencerLayer">
-      <id>oita_index20190906001439783</id>
-      <datasource>.</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>oita_index</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
-          <srsid>3857</srsid>
-          <srid>3857</srid>
-          <authid>EPSG:3857</authid>
-          <description>WGS 84 / Pseudo Mercator</description>
-          <projectionacronym>merc</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="blendMode" value="SourceOver"/>
-        <property key="filepath" value="沿岸海域環境保全情報\第七管区海上保安本部\07_oita\oita_index.png"/>
-        <property key="rotation" value="0"/>
-        <property key="title" value="oita_index"/>
-        <property key="transparency" value="50"/>
-        <property key="xCenter" value="14636287.7839335"/>
-        <property key="xScale" value="123.692936030876"/>
-        <property key="yCenter" value="3902042.34269121"/>
-        <property key="yScale" value="124.804517702863"/>
-      </customproperties>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>中国20190905214823589</id>
@@ -4650,7 +3808,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="0.498039" clip_to_extent="1" type="marker" name="0">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="247,251,255,255"/>
+              <prop k="color" v="0,0,4,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -4672,7 +3830,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="0.498039" clip_to_extent="1" type="marker" name="1">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="228,239,249,255"/>
+              <prop k="color" v="20,14,55,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -4694,7 +3852,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="0.498039" clip_to_extent="1" type="marker" name="10">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="8,48,107,255"/>
+              <prop k="color" v="252,253,191,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -4716,7 +3874,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="0.498039" clip_to_extent="1" type="marker" name="2">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="209,227,243,255"/>
+              <prop k="color" v="59,15,111,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -4738,7 +3896,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="0.498039" clip_to_extent="1" type="marker" name="3">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="186,214,235,255"/>
+              <prop k="color" v="100,26,128,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -4760,7 +3918,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="0.498039" clip_to_extent="1" type="marker" name="4">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="154,200,225,255"/>
+              <prop k="color" v="140,41,129,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -4782,7 +3940,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="0.498039" clip_to_extent="1" type="marker" name="5">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="115,179,216,255"/>
+              <prop k="color" v="182,54,121,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -4804,7 +3962,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="0.498039" clip_to_extent="1" type="marker" name="6">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="82,157,204,255"/>
+              <prop k="color" v="222,73,105,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -4826,7 +3984,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="0.498039" clip_to_extent="1" type="marker" name="7">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="53,133,192,255"/>
+              <prop k="color" v="247,111,92,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -4848,7 +4006,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="0.498039" clip_to_extent="1" type="marker" name="8">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="28,108,177,255"/>
+              <prop k="color" v="254,159,109,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -4870,7 +4028,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="0.498039" clip_to_extent="1" type="marker" name="9">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="8,81,156,255"/>
+              <prop k="color" v="254,206,145,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
@@ -4915,10 +4073,10 @@ def my_form_open(dialog, layer, feature):
           </symbol>
         </source-symbol>
         <colorramp type="gradient" name="[source]">
-          <prop k="color1" v="247,251,255,255"/>
-          <prop k="color2" v="8,48,107,255"/>
+          <prop k="color1" v="0,0,4,255"/>
+          <prop k="color2" v="252,253,191,255"/>
           <prop k="discrete" v="0"/>
-          <prop k="stops" v="0.13;222,235,247,255:0.26;198,219,239,255:0.39;158,202,225,255:0.52;107,174,214,255:0.65;66,146,198,255:0.78;33,113,181,255:0.9;8,81,156,255"/>
+          <prop k="stops" v="0.0196078;2,2,11,255:0.0392157;5,4,22,255:0.0588235;9,7,32,255:0.0784314;14,11,43,255:0.0980392;20,14,54,255:0.117647;26,16,66,255:0.137255;33,17,78,255:0.156863;41,17,90,255:0.176471;49,17,101,255:0.196078;57,15,110,255:0.215686;66,15,117,255:0.235294;74,16,121,255:0.254902;82,19,124,255:0.27451;90,22,126,255:0.294118;98,25,128,255:0.313725;106,28,129,255:0.333333;114,31,129,255:0.352941;121,34,130,255:0.372549;129,37,129,255:0.392157;137,40,129,255:0.411765;145,43,129,255:0.431373;153,45,128,255:0.45098;161,48,126,255:0.470588;170,51,125,255:0.490196;178,53,123,255:0.509804;186,56,120,255:0.529412;194,59,117,255:0.54902;202,62,114,255:0.568627;210,66,111,255:0.588235;217,70,107,255:0.607843;224,76,103,255:0.627451;231,82,99,255:0.647059;236,88,96,255:0.666667;241,96,93,255:0.686275;244,105,92,255:0.705882;247,114,92,255:0.72549;249,123,93,255:0.745098;251,133,96,255:0.764706;252,142,100,255:0.784314;253,152,105,255:0.803922;254,161,110,255:0.823529;254,170,116,255:0.843137;254,180,123,255:0.862745;254,189,130,255:0.882353;254,198,138,255:0.901961;254,207,146,255:0.921569;254,216,154,255:0.941176;253,226,163,255:0.960784;253,235,172,255:0.980392;252,244,182,255"/>
         </colorramp>
         <invertedcolorramp value="0"/>
         <mode name="quantile"/>
@@ -6961,7 +6119,7 @@ def my_form_open(dialog, layer, feature):
       <layername>標準地図</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -7006,7 +6164,7 @@ def my_form_open(dialog, layer, feature):
       <layername>淡色地図</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
@@ -7051,7 +6209,7 @@ def my_form_open(dialog, layer, feature):
       <layername>白地図</layername>
       <srs>
         <spatialrefsys>
-          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
           <srsid>3857</srsid>
           <srid>3857</srid>
           <authid>EPSG:3857</authid>
