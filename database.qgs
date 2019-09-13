@@ -32,7 +32,7 @@
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="1" checked="Qt::Checked" name="shp">
+    <layer-tree-group expanded="0" checked="Qt::Checked" name="shp">
       <customproperties/>
       <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="07_oita20190906013746554" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/shape/07_oita.shp|layerid=0|subset=&quot;type_1&quot; = '魚類小割式'" name="07_oita">
         <customproperties/>
@@ -51,11 +51,8 @@
         </customproperties>
       </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="referencer">
+    <layer-tree-group expanded="1" checked="Qt::Unchecked" name="referencer">
       <customproperties/>
-      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_15_georeferenced20190906012105288" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_15_georeferenced.png" name="oita_15_georeferenced">
-        <customproperties/>
-      </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group expanded="0" checked="Qt::Unchecked" name="georeferencer">
       <customproperties/>
@@ -72,6 +69,9 @@
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_16_georeferenced20190906012105305" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_16_georeferenced.png" name="oita_16_georeferenced">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_15_georeferenced20190906012105288" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_15_georeferenced.png" name="oita_15_georeferenced">
         <customproperties/>
       </layer-tree-layer>
       <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="oita_14_georeferenced20190906012105271" source="C:/Users/Hongxia/Documents/GitHub/database/沿岸海域環境保全情報/第七管区海上保安本部/georef_07_oita/oita_14_georeferenced.png" name="oita_14_georeferenced">
@@ -142,10 +142,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>14671714.69116559438407421</xmin>
-      <ymin>3879644.3084125891327858</ymin>
-      <xmax>14711543.64654603414237499</xmax>
-      <ymax>3902994.36813918501138687</ymax>
+      <xmin>14649855.51556926220655441</xmin>
+      <ymin>3955805.5745085459202528</ymin>
+      <xmax>14809171.33709102123975754</xmax>
+      <ymax>4049205.8134149294346571</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -319,7 +319,7 @@
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup open="true" checked="Qt::Checked" name="shp">
+    <legendgroup open="false" checked="Qt::Checked" name="shp">
       <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="07_oita" showFeatureCount="0">
         <filegroup open="false" hidden="false">
           <legendlayerfile isInOverview="0" layerid="07_oita20190906013746554" visible="1"/>
@@ -338,13 +338,7 @@
         </filegroup>
       </legendlayer>
     </legendgroup>
-    <legendgroup open="false" checked="Qt::Unchecked" name="referencer">
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_15_georeferenced" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="oita_15_georeferenced20190906012105288" visible="0"/>
-        </filegroup>
-      </legendlayer>
-    </legendgroup>
+    <legendgroup open="true" checked="Qt::Unchecked" name="referencer"/>
     <legendgroup open="false" checked="Qt::Unchecked" name="georeferencer">
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_20_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
@@ -369,6 +363,11 @@
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_16_georeferenced" showFeatureCount="0">
         <filegroup open="true" hidden="false">
           <legendlayerfile isInOverview="0" layerid="oita_16_georeferenced20190906012105305" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_15_georeferenced" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="oita_15_georeferenced20190906012105288" visible="0"/>
         </filegroup>
       </legendlayer>
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="oita_14_georeferenced" showFeatureCount="0">
